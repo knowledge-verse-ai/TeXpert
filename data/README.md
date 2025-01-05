@@ -1,5 +1,5 @@
 # Dataset Details
 
-The dataset can be downloaded from HuggingFace [here](https://huggingface.co/datasets/knowledge-verse-ai/TeXpert).
+The dataset can be downloaded from here (TeXpert_Dataset.xlsx) 
 
-Please make surer to acknowledge our work if you use the dataset!
+Please make sure to acknowledge our work if you use the dataset!
