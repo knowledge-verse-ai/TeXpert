@@ -8,6 +8,9 @@ LaTeX's precision and flexibility in typesetting have made it the gold standard 
 <br>
 <p align=center><em>Process used to create the TeXpert dataset along with the schema description </em></p>
 
+## Dataset
+
+The dataset is directly available for download and integration in various formats on HuggingFace here: [🤗Link](https://huggingface.co/datasets/knowledge-verse-ai/TeXpert)
 
 ## Installation
 
